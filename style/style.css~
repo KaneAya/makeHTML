@@ -1,0 +1,42 @@
+@charset "utf-8"; 
+
+html{
+    font-size:100%;
+    font-family:'Open Sans',sans-serif;
+    background-color:#ffffb2;
+    justify-content:space-around;
+    
+}
+
+body{
+    width:900px;
+    margin:0 auto;
+    background-color:#c1ffff;
+}
+
+ul{
+    text-align:left;
+}
+
+h1{
+    text-align:center;
+    color:#a86f4c;
+}
+
+ul{
+    padding:0 10px;
+}
+
+h4{
+    text-align:right;
+}
+    
+
+#Elements{
+    display:flex;
+    justify-content:space-around;
+}
+
+img{
+    width:200px;
+}
